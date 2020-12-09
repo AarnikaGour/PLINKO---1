@@ -1,2 +1,2 @@
-# Prajit Shandilya
+PLINKO 1
 
